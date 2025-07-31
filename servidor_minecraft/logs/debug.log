@@ -871,3 +871,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31Jul2025 22:49:41.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iGhost_blade> esta semilla
 [31Jul2025 22:49:42.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iGhost_blade> esta rota
 [31Jul2025 22:49:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CavaGod> si estuve viendo
+[31Jul2025 22:50:33.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CavaGod> ya
+[31Jul2025 22:50:36.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iGhost_blade> ya tengo etiquetas
+[31Jul2025 22:50:38.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iGhost_blade> restone
+[31Jul2025 22:50:39.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CavaGod> a
+[31Jul2025 22:50:43.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iGhost_blade> XD
+[31Jul2025 22:50:44.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 22:50:44.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 22:50:48.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iGhost_blade> y una esmeralda
+[31Jul2025 22:51:36.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <iGhost_blade> ya haora lo cierro
+[31Jul2025 22:51:41.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CavaGod> va
+[31Jul2025 22:52:22.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod has made the advancement [Getting an Upgrade]
+[31Jul2025 22:52:44.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iGhost_blade lost connection: Disconnected
+[31Jul2025 22:52:44.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: iGhost_blade left the game
+[31Jul2025 22:52:54.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CavaGod lost connection: Disconnected
+[31Jul2025 22:52:54.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod left the game
+[31Jul2025 22:52:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Jul2025 22:52:54.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Jul2025 22:52:54.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Jul2025 22:52:54.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Jul2025 22:52:55.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Jul2025 22:52:55.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Jul2025 22:52:55.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 22:52:55.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 22:52:55.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Jul2025 22:52:55.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Jul2025 22:52:55.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Jul2025 22:52:55.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Jul2025 22:52:55.615] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

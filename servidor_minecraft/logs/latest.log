@@ -63,3 +63,6 @@
 [01Aug2025 14:48:30.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CavaGod[/127.135.15.128:59183] logged in with entity id 4683 at (229.83840211845055, 63.021002560286576, 381.99877322685353)
 [01Aug2025 14:48:30.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod joined the game
 [01Aug2025 14:49:04.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod has made the advancement [Best Friends Forever]
+[01Aug2025 14:49:54.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=62, z=368} BlockPos{x=226, y=61, z=368}
+[01Aug2025 14:50:18.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CavaGod lost connection: Disconnected
+[01Aug2025 14:50:18.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod left the game

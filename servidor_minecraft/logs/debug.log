@@ -929,3 +929,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Aug2025 14:48:30.961] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@3b3e6eb8 into net.minecraft.network.Connection@44910db9
 [01Aug2025 14:48:30.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod joined the game
 [01Aug2025 14:49:04.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod has made the advancement [Best Friends Forever]
+[01Aug2025 14:49:50.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 14:49:50.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 14:49:54.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=62, z=368} BlockPos{x=226, y=61, z=368}
+[01Aug2025 14:50:18.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CavaGod lost connection: Disconnected
+[01Aug2025 14:50:18.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod left the game
+[01Aug2025 14:54:50.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 14:54:50.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

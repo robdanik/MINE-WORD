@@ -46,3 +46,20 @@
 [01Aug2025 14:29:59.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod joined the game
 [01Aug2025 14:32:10.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod has made the advancement [Acquire Hardware]
 [01Aug2025 14:38:55.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod has made the advancement [Isn't It Iron Pick]
+[01Aug2025 14:40:34.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod has made the advancement [Suit Up]
+[01Aug2025 14:46:46.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CavaGod lost connection: Timed out
+[01Aug2025 14:46:46.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod left the game
+[01Aug2025 14:46:46.304] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Aug2025 14:46:59.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CavaGod[/127.135.15.128:34771] logged in with entity id 3882 at (222.21747062656874, 61.62205792951059, 374.3199708460341)
+[01Aug2025 14:46:59.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod joined the game
+[01Aug2025 14:47:30.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CavaGod moved too quickly! -9.756276962866849,1.2491870787446828,3.251848197282243
+[01Aug2025 14:47:35.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CavaGod was kicked for floating too long!
+[01Aug2025 14:47:35.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CavaGod lost connection: Flying is not enabled on this server
+[01Aug2025 14:47:35.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod left the game
+[01Aug2025 14:47:58.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CavaGod[/127.135.15.128:48963] logged in with entity id 4316 at (229.83840211845055, 64.16610926093821, 381.99877322685353)
+[01Aug2025 14:47:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod joined the game
+[01Aug2025 14:48:22.405] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CavaGod lost connection: Disconnected
+[01Aug2025 14:48:22.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod left the game
+[01Aug2025 14:48:30.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CavaGod[/127.135.15.128:59183] logged in with entity id 4683 at (229.83840211845055, 63.021002560286576, 381.99877322685353)
+[01Aug2025 14:48:30.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod joined the game
+[01Aug2025 14:49:04.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CavaGod has made the advancement [Best Friends Forever]
